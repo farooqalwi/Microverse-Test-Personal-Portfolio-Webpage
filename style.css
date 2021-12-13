@@ -1,0 +1,79 @@
+.nav_text li a{
+    color: white !important;
+}
+
+.about{
+    background-color: #2C272E;
+    text-align: center;
+    padding: 50px 0 200px 0;
+}
+
+.about h1{
+    color: white;
+    font-size: 70px;
+}
+
+.about h4{
+    font-size: 40px;
+
+}
+
+.work{
+    background-color: #6166B3;
+    text-align: center;
+    padding: 50px 0 70px 0;
+}
+
+.work h1{
+    color: white;
+    font-size: 50px;
+    border-bottom: 3px solid white;
+
+}
+
+.myCard div{
+padding: 30px 10px 30px 10px;
+margin: 0 auto;
+
+
+}
+
+.work button:hover{
+    background-color: #C85C5C;
+}
+
+.contact{
+    background-color: #2C272E;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0 70px 0;
+}
+
+.social div{
+    padding: 20px;
+    
+    
+}
+
+.social div a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+
+.copyright{
+    justify-content: center;
+    display: flex;
+    padding: 30px 0;
+}
+
+.copyright p{
+    padding: 0 50px 0 50px;
+}
+
